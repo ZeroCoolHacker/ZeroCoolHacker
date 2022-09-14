@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [neerazz/FAANG](https://github.com/neerazz/FAANG)
-2. ⭐ Starred [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)
-3. ⭐ Starred [smv1999/CompetitiveProgrammingQuestionBank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank)
-4. ⭐ Starred [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
-5. ❗️ Opened issue [#38](https://github.com/mixpanel/mixpanel-java/issues/38) in [mixpanel/mixpanel-java](https://github.com/mixpanel/mixpanel-java)
+1. 🔱 Forked [ZeroCoolHacker/ZeroCoolHacker](https://github.com/ZeroCoolHacker/ZeroCoolHacker) from [a-wakeel/a-wakeel](https://github.com/a-wakeel/a-wakeel)
+2. ⭐ Starred [chrisspen/django-chroniker](https://github.com/chrisspen/django-chroniker)
+3. ⭐ Starred [starlite-api/starlite](https://github.com/starlite-api/starlite)
+4. ⭐ Starred [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation)
+5. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 13th, 2022, 12:36:46 AM (GMT)
+Last Updated: Wednesday, September 14th, 2022, 1:25:47 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
