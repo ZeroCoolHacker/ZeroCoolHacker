@@ -35,13 +35,12 @@
 2. 💪 Opened PR [#1](https://github.com/ZeroCoolHacker/awesome-interview-questions/pull/1) in [ZeroCoolHacker/awesome-interview-questions](https://github.com/ZeroCoolHacker/awesome-interview-questions)
 3. 🔱 Forked [ZeroCoolHacker/ZeroCoolHacker](https://github.com/ZeroCoolHacker/ZeroCoolHacker) from [a-wakeel/a-wakeel](https://github.com/a-wakeel/a-wakeel)
 4. ⭐ Starred [chrisspen/django-chroniker](https://github.com/chrisspen/django-chroniker)
-5. ⭐ Starred [starlite-api/starlite](https://github.com/starlite-api/starlite)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 5th, 2022, 1:36:48 AM (GMT)
+Last Updated: Thursday, October 6th, 2022, 1:24:03 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
