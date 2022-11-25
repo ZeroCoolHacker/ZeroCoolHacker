@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [waleed2812/askemam](https://github.com/waleed2812/askemam)
-2. ⭐ Starred [hadmean/hadmean](https://github.com/hadmean/hadmean)
-3. ⭐ Starred [mmcardle/django_builder](https://github.com/mmcardle/django_builder)
-4. ⭐ Starred [bram2w/baserow](https://github.com/bram2w/baserow)
-5. ⭐ Starred [id1945/vuexy-admin](https://github.com/id1945/vuexy-admin)
+1. ⭐ Starred [gwleuverink/clickup-time-tracker](https://github.com/gwleuverink/clickup-time-tracker)
+2. ⭐ Starred [waleed2812/askemam](https://github.com/waleed2812/askemam)
+3. ⭐ Starred [hadmean/hadmean](https://github.com/hadmean/hadmean)
+4. ⭐ Starred [mmcardle/django_builder](https://github.com/mmcardle/django_builder)
+5. ⭐ Starred [bram2w/baserow](https://github.com/bram2w/baserow)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 24th, 2022, 1:12:47 AM (GMT)
+Last Updated: Friday, November 25th, 2022, 1:07:04 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
