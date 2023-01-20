@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn)
-2. ⭐ Starred [gwleuverink/clickup-time-tracker](https://github.com/gwleuverink/clickup-time-tracker)
-3. ⭐ Starred [waleed2812/askemam](https://github.com/waleed2812/askemam)
-4. ⭐ Starred [hadmean/hadmean](https://github.com/hadmean/hadmean)
-5. ⭐ Starred [mmcardle/django_builder](https://github.com/mmcardle/django_builder)
+1. 📔 Created new repository [ZeroCoolHacker/python-exercises](https://github.com/ZeroCoolHacker/python-exercises)
+2. ⭐ Starred [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn)
+3. ⭐ Starred [gwleuverink/clickup-time-tracker](https://github.com/gwleuverink/clickup-time-tracker)
+4. ⭐ Starred [waleed2812/askemam](https://github.com/waleed2812/askemam)
+5. ⭐ Starred [hadmean/hadmean](https://github.com/hadmean/hadmean)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 19th, 2023, 1:04:12 AM (GMT)
+Last Updated: Friday, January 20th, 2023, 1:03:21 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
