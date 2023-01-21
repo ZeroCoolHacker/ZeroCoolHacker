@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [ZeroCoolHacker/python-exercises](https://github.com/ZeroCoolHacker/python-exercises)
-2. ⭐ Starred [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn)
-3. ⭐ Starred [gwleuverink/clickup-time-tracker](https://github.com/gwleuverink/clickup-time-tracker)
-4. ⭐ Starred [waleed2812/askemam](https://github.com/waleed2812/askemam)
-5. ⭐ Starred [hadmean/hadmean](https://github.com/hadmean/hadmean)
+1. 👍 Approved [#6618](https://github.com/InstaPy/InstaPy/pull/6618#pullrequestreview-1264098326) in [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)
+2. 📔 Created new repository [ZeroCoolHacker/python-exercises](https://github.com/ZeroCoolHacker/python-exercises)
+3. ⭐ Starred [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn)
+4. ⭐ Starred [gwleuverink/clickup-time-tracker](https://github.com/gwleuverink/clickup-time-tracker)
+5. ⭐ Starred [waleed2812/askemam](https://github.com/waleed2812/askemam)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 20th, 2023, 1:03:21 AM (GMT)
+Last Updated: Saturday, January 21st, 2023, 1:02:32 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
