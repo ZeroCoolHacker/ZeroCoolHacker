@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#3](https://github.com/vanybhops/tiktok-fixer/issues/3) in [vanybhops/tiktok-fixer](https://github.com/vanybhops/tiktok-fixer)
-2. ⭐ Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
-3. 👍 Approved [#6618](https://github.com/InstaPy/InstaPy/pull/6618#pullrequestreview-1264098326) in [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)
-4. 📔 Created new repository [ZeroCoolHacker/python-exercises](https://github.com/ZeroCoolHacker/python-exercises)
-5. ⭐ Starred [adamghill/django-unicorn](https://github.com/adamghill/django-unicorn)
+1. ⭐ Starred [primaryobjects/voice-gender](https://github.com/primaryobjects/voice-gender)
+2. ❗️ Opened issue [#3](https://github.com/vanybhops/tiktok-fixer/issues/3) in [vanybhops/tiktok-fixer](https://github.com/vanybhops/tiktok-fixer)
+3. ⭐ Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
+4. 👍 Approved [#6618](https://github.com/InstaPy/InstaPy/pull/6618#pullrequestreview-1264098326) in [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)
+5. 📔 Created new repository [ZeroCoolHacker/python-exercises](https://github.com/ZeroCoolHacker/python-exercises)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 4th, 2023, 1:01:04 AM (GMT)
+Last Updated: Sunday, February 5th, 2023, 1:08:21 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
