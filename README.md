@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [primaryobjects/voice-gender](https://github.com/primaryobjects/voice-gender)
-2. ❗️ Opened issue [#3](https://github.com/vanybhops/tiktok-fixer/issues/3) in [vanybhops/tiktok-fixer](https://github.com/vanybhops/tiktok-fixer)
-3. ⭐ Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
-4. 👍 Approved [#6618](https://github.com/InstaPy/InstaPy/pull/6618#pullrequestreview-1264098326) in [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)
-5. 📔 Created new repository [ZeroCoolHacker/python-exercises](https://github.com/ZeroCoolHacker/python-exercises)
+1. 🔱 Forked [ZeroCoolHacker/Grammer-Checker](https://github.com/ZeroCoolHacker/Grammer-Checker) from [waodendaal/Grammer-Checker](https://github.com/waodendaal/Grammer-Checker)
+2. 💪 Opened PR [#1](https://github.com/Usman4862/college/pull/1) in [Usman4862/college](https://github.com/Usman4862/college)
+3. 🔱 Forked [ZeroCoolHacker/college](https://github.com/ZeroCoolHacker/college) from [Usman4862/college](https://github.com/Usman4862/college)
+4. ⭐ Starred [primaryobjects/voice-gender](https://github.com/primaryobjects/voice-gender)
+5. ❗️ Opened issue [#3](https://github.com/vanybhops/tiktok-fixer/issues/3) in [vanybhops/tiktok-fixer](https://github.com/vanybhops/tiktok-fixer)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 17th, 2023, 1:09:31 AM (GMT)
+Last Updated: Saturday, February 18th, 2023, 1:04:01 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
