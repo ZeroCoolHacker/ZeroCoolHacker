@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [ZeroCoolHacker/Grammer-Checker](https://github.com/ZeroCoolHacker/Grammer-Checker) from [waodendaal/Grammer-Checker](https://github.com/waodendaal/Grammer-Checker)
-2. 💪 Opened PR [#1](https://github.com/Usman4862/college/pull/1) in [Usman4862/college](https://github.com/Usman4862/college)
-3. 🔱 Forked [ZeroCoolHacker/college](https://github.com/ZeroCoolHacker/college) from [Usman4862/college](https://github.com/Usman4862/college)
-4. ⭐ Starred [primaryobjects/voice-gender](https://github.com/primaryobjects/voice-gender)
-5. ❗️ Opened issue [#3](https://github.com/vanybhops/tiktok-fixer/issues/3) in [vanybhops/tiktok-fixer](https://github.com/vanybhops/tiktok-fixer)
+1. ⭐ Starred [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
+2. 🔱 Forked [ZeroCoolHacker/Grammer-Checker](https://github.com/ZeroCoolHacker/Grammer-Checker) from [waodendaal/Grammer-Checker](https://github.com/waodendaal/Grammer-Checker)
+3. 💪 Opened PR [#1](https://github.com/Usman4862/college/pull/1) in [Usman4862/college](https://github.com/Usman4862/college)
+4. 🔱 Forked [ZeroCoolHacker/college](https://github.com/ZeroCoolHacker/college) from [Usman4862/college](https://github.com/Usman4862/college)
+5. ⭐ Starred [primaryobjects/voice-gender](https://github.com/primaryobjects/voice-gender)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 24th, 2023, 1:05:36 AM (GMT)
+Last Updated: Saturday, February 25th, 2023, 1:05:17 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
