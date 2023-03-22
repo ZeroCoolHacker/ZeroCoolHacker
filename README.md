@@ -31,17 +31,17 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
-2. 🔱 Forked [ZeroCoolHacker/Grammer-Checker](https://github.com/ZeroCoolHacker/Grammer-Checker) from [waodendaal/Grammer-Checker](https://github.com/waodendaal/Grammer-Checker)
-3. ⭐ Starred [primaryobjects/voice-gender](https://github.com/primaryobjects/voice-gender)
-4. ❗️ Opened issue [#3](https://github.com/vanybhops/tiktok-fixer/issues/3) in [vanybhops/tiktok-fixer](https://github.com/vanybhops/tiktok-fixer)
-5. ⭐ Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
+1. ⭐ Starred [canberkakcali/gomoku-ai-minimax](https://github.com/canberkakcali/gomoku-ai-minimax)
+2. ⭐ Starred [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
+3. 🔱 Forked [ZeroCoolHacker/Grammer-Checker](https://github.com/ZeroCoolHacker/Grammer-Checker) from [waodendaal/Grammer-Checker](https://github.com/waodendaal/Grammer-Checker)
+4. ⭐ Starred [primaryobjects/voice-gender](https://github.com/primaryobjects/voice-gender)
+5. ❗️ Opened issue [#3](https://github.com/vanybhops/tiktok-fixer/issues/3) in [vanybhops/tiktok-fixer](https://github.com/vanybhops/tiktok-fixer)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 21st, 2023, 12:59:43 AM (GMT)
+Last Updated: Wednesday, March 22nd, 2023, 12:59:34 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
