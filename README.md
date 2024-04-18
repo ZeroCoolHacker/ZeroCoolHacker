@@ -31,12 +31,16 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
+1. ✔️ Closed issue [#74](https://github.com/ZeroCoolHacker/easy-school/issues/74) in [ZeroCoolHacker/easy-school](https://github.com/ZeroCoolHacker/easy-school)
+2. 🎉 Merged PR [#75](https://github.com/ZeroCoolHacker/easy-school/pull/75) in [ZeroCoolHacker/easy-school](https://github.com/ZeroCoolHacker/easy-school)
+3. 🔴 Requested 2 change(s) for [#75](https://github.com/ZeroCoolHacker/easy-school/pull/75#pullrequestreview-2005969853) in [ZeroCoolHacker/easy-school](https://github.com/ZeroCoolHacker/easy-school)
+4. ❗️ Opened issue [#74](https://github.com/ZeroCoolHacker/easy-school/issues/74) in [ZeroCoolHacker/easy-school](https://github.com/ZeroCoolHacker/easy-school)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 17th, 2024, 12:53:19 AM (GMT)
+Last Updated: Thursday, April 18th, 2024, 12:52:16 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
