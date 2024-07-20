@@ -31,17 +31,12 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#77](https://github.com/ZeroCoolHacker/easy-school/pull/77#pullrequestreview-2009061351) in [ZeroCoolHacker/easy-school](https://github.com/ZeroCoolHacker/easy-school)
-2. ✔️ Closed issue [#74](https://github.com/ZeroCoolHacker/easy-school/issues/74) in [ZeroCoolHacker/easy-school](https://github.com/ZeroCoolHacker/easy-school)
-3. 🎉 Merged PR [#75](https://github.com/ZeroCoolHacker/easy-school/pull/75) in [ZeroCoolHacker/easy-school](https://github.com/ZeroCoolHacker/easy-school)
-4. 🔴 Requested 2 change(s) for [#75](https://github.com/ZeroCoolHacker/easy-school/pull/75#pullrequestreview-2005969853) in [ZeroCoolHacker/easy-school](https://github.com/ZeroCoolHacker/easy-school)
-5. ❗️ Opened issue [#74](https://github.com/ZeroCoolHacker/easy-school/issues/74) in [ZeroCoolHacker/easy-school](https://github.com/ZeroCoolHacker/easy-school)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 18th, 2024, 12:59:09 AM (GMT)
+Last Updated: Saturday, July 20th, 2024, 12:58:45 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
