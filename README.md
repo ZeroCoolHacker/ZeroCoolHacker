@@ -31,13 +31,12 @@
 
 ## 🗣 My activity:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zalun/djpoe](https://github.com/zalun/djpoe)
 <!--RECENT_ACTIVITY:end-->
 
 ![snake gif](https://github.com/a-wakeel/a-wakeel/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 16th, 2025, 1:06:49 AM (GMT)
+Last Updated: Friday, January 17th, 2025, 1:06:38 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
